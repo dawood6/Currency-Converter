@@ -1,0 +1,32 @@
+
+input{
+    border: 2px solid rgb(50, 74, 182);
+  border-radius: 4px;
+  padding: 12px 20px;
+  color: rgb(94, 94, 94);
+}
+label {
+    color: rgb(0, 255, 229);
+}
+.convert {
+    background-color: rgb(0, 255, 229);
+    color: rgb(235, 0, 0);
+}
+
+* {
+    font-family: 'Orbitron', sans-serif;
+}
+marquee {
+    color: lime;
+}
+
+h1 {
+    color: royalblue;
+    display: inline;
+}
+.dark {
+    border-radius: 20px;
+    width: 60px;
+    height: 60px;
+    float: right;
+}
